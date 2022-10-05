@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UiDesignChapterLima</string>
+    <string name="hello_welcome_to_localization">Halo, Selamat Datang di Lokalisasi</string>
+    <string name="go_to_main_2">Ke Main 2</string>
+    <string name="english">Inggris</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="input_name">Masukkan Nama</string>
+    <string name="input_password">Masukkan Password</string>
+</resources>

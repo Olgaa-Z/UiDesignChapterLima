@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UiDesignChapterLima</string>
+    <string name="hello_welcome_to_localization">Hello, Welcome to Localization</string>
+    <string name="indonesia">Indonesian</string>
+    <string name="go_to_main_2">Go To Main 2</string>
+    <string name="english">English</string>
+    <string name="input_name">input name</string>
+    <string name="input_password">input password</string>
+</resources>
